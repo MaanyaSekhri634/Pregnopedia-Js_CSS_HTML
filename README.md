@@ -1,2 +1,2 @@
 # Pregnopedia-Js_CSS_HTML
-It is a responsive website which suggests balanced diet, physical excercise guidelines along with general guidelines to pregnant women based on their trimester.
+Are you an expecting mother looking for some expert advice on how to stay healthy during pregnancy? Look no further! This amazing website offers personalized guidelines for pregnant women based on their trimester. From tips on maintaining a well-balanced diet to safe physical exercise recommendations, this website has got you covered!
